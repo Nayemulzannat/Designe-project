@@ -81,6 +81,11 @@
                     <p class="skill-title"></p>
                     <p class="skill-discription">Quibusdam quo assumenda deserunt sint expedita possimus eos? Maxime veritatis culpa perspiciatis voluptates, molestias neque.</p>
                 </div>
+                <div class="skill">
+                    <img src="" alt="">
+                    <p class="skill-title"></p>
+                    <p class="skill-discription">Quibusdam quo assumenda deserunt sint expedita possimus eos? Maxime veritatis culpa perspiciatis voluptates, molestias neque.</p>
+                </div>
             </div>
                 <div class="skill">
                     <img src="" alt="">
