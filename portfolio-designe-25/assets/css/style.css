@@ -1,0 +1,25 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+}
+
+.text-primary {
+  color: #FD6E0A;
+}
+
+/* Nav Style */
+nav {
+  display: flex;
+}
+
+.nav-tiltle {
+  font-size: 45px;
+  font-weight: 800;
+  line-height: 61px;
+  letter-spacing: 0%;
+  text-align: left;
+}
