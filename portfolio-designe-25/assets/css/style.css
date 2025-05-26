@@ -54,6 +54,7 @@
   line-height: 30px;
   letter-spacing: 0%;
   text-align: center;
+  margin: 30px 0px 30px 0px;
 }
 
 .header {
@@ -117,4 +118,34 @@ nav ul li a {
   font-weight: 700;
   line-height: 116px;
   letter-spacing: 0%;
+}
+
+/* main section style*/
+main {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+/* about section  style */
+.about {
+  border-radius: 10px;
+  padding: 130px 150px;
+  text-align: center;
+  margin-top: 130px;
+}
+
+/* about items */
+.about-items {
+  display: flex;
+  justify-content: space-around;
+}
+
+.about-item {}
+
+.item-title {
+  margin-bottom: 10px;
+}
+
+.item-description {
+  font-weight: 600;
 }
