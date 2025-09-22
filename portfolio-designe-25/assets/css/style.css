@@ -149,3 +149,14 @@ main {
 .item-description {
   font-weight: 600;
 }
+
+/* skills-container */
+
+.skills-container{
+  display: flex;
+  gap: 24px;
+}
+
+.skill{
+  padding: 30px;
+}
