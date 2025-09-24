@@ -198,10 +198,36 @@ main section {
 
 .experiance-descripiton {}
 
-.resume hr{
-margin-right: 30px 5px;
+.resume hr {
+  margin-right: 30px 5px;
 }
-.cv-download-button{
+
+.cv-download-button {
   text-align: center;
   margin-top: 30px;
+}
+
+footer {
+  padding: 130px 230px;
+}
+
+.footer-container {
+  display: flex;
+  gap: 20px;
+
+}
+
+.footer-column {
+  width: 50%;
+}
+
+footer input[type="text"],
+footer textarea {
+  border-radius: 5px;
+  background-color: white;
+  display: block;
+  width: 100%;
+  padding: 10px 20px;
+  margin-bottom: 10px;
+  
 }
